@@ -1,6 +1,6 @@
-# dota_statz
+# Flutter App Opendota API
 
-A new Flutter project.
+A Flutter project using Opendota API to view user's stat and recent matches
 
 ## Getting Started
 
